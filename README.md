@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/vicnx/vicnx/main/logo.gif">
+<img src="https://raw.githubusercontent.com/vicnx/vicnx/main/signbot.gif">
 
 <h2> Hey there! I'm Vicente.</h2>
 
