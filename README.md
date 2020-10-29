@@ -46,9 +46,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vicnx/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/xente57_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:andanivicente@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/vicnx/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vicente%20Andani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/xente57_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-vicnx-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:andanivicente@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-andanivicente@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [vicnx](https://github.com/vicnx)
