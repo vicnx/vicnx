@@ -1,6 +1,6 @@
 
-<img src="https://raw.githubusercontent.com/vicnx/vicnx/main/logo.gif" width="350">
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
+<img src="https://raw.githubusercontent.com/vicnx/vicnx/main/signbot.gif" width="350">
+<img align="right" src="https://raw.githubusercontent.com/vicnx/vicnx/main/logo.gif" width="350">
 
 <h2> Hey there! I'm Vicente.</h2>
 
