@@ -1,7 +1,3 @@
-
-<img src="https://raw.githubusercontent.com/vicnx/vicnx/main/signbot.gif" width="350">
-<img align="right" src="https://raw.githubusercontent.com/vicnx/vicnx/main/logo.gif" width="350">
-
 <h2> Hey there! I'm Vicente.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
