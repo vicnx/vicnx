@@ -1,5 +1,6 @@
 
-<img src="https://raw.githubusercontent.com/vicnx/vicnx/main/signbot.gif">
+<img src="https://raw.githubusercontent.com/vicnx/vicnx/main/logo.gif" width="350">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 <h2> Hey there! I'm Vicente.</h2>
 
@@ -52,5 +53,5 @@
 </p>
 
 <p align="center">
-Check out my repos ⬇️  
+Check out my repos ⬇️ 
 </p>
