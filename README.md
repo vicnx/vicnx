@@ -21,6 +21,7 @@
   ![PHP](  https://img.shields.io/badge/-PHP%20OOP-333333?style=flat&logo=php)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=materialui)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Expressjs](https://img.shields.io/badge/-ExpressJS-333333?style=flat)
 - 🛢 &nbsp;
