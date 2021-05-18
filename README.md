@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Learning new technologies.
-- 🎓 &nbsp; Studying Web Application Development at IES L'Estació Ontinyent.
+- 🎓 &nbsp; Web developer.
 
 <h3> 🛠 &nbsp;Skills</h3>
 
