@@ -10,6 +10,12 @@
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - 🌐 &nbsp;
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Vue](https://img.shields.io/badge/-VUE-333333?style=flat&logo=vuejs)
+  ![DJango](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+  ![GO](https://img.shields.io/badge/-GO-333333?style=flat&logo=go)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![PHP](  https://img.shields.io/badge/-PHP%20OOP-333333?style=flat&logo=php)
@@ -17,12 +23,6 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Expressjs](https://img.shields.io/badge/-ExpressJS-333333?style=flat)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Vue](https://img.shields.io/badge/-VUE-333333?style=flat&logo=vuejs)
-  ![DJango](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-  ![GO](https://img.shields.io/badge/-GO-333333?style=flat&logo=go)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
