@@ -24,6 +24,7 @@
   ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=materialui)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Expressjs](https://img.shields.io/badge/-ExpressJS-333333?style=flat)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
